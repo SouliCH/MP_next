@@ -1,0 +1,17 @@
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid rgb(6, 64, 255);
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: rgb(2, 8, 8);
+    font: 30px Arial,Helvetica,sans-serif;
+}
+body {
+    background-image: url("montagne.avif");
+    background-size: cover;
+    background: linear-gradient (black, white);
+}
